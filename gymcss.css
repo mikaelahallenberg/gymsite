@@ -1,0 +1,65 @@
+
+container-fluid {
+	background: transparent;
+	margin-top:0px;
+	overflow-y:hidden;
+	padding-left:-5px;
+
+	
+	
+}
+
+body {
+	background: url("http://i.huffpost.com/gen/1395167/images/o-WEIGHT-LIFTING-facebook.jpg");
+	 -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+	
+	
+	
+	
+	
+}
+
+
+h1{
+	text-align: center;
+	color: white;
+	font-family: 'Bungee Hairline', cursive; bold;
+	font-size: 90px;
+	margin-top: 210px;
+	
+	
+}
+h1 span {
+	
+    color: white;
+  top: 35%
+	margin-top: 130px;
+    
+	background: rgba(0, 0, 0, 0.9);
+    padding: 10px;
+	padding-top: 0px;
+    position: relative;
+    display: initial;
+
+}
+p {
+	text-align:center;
+	color: white;
+	font-family: 'Bungee Hairline', cursive; bold;
+	font-size: 26px;
+	
+	margin-top:100px;
+}
+
+nav  {
+	
+	margin-bottom:0px;!important
+	opacity:1;
+	background-color: transparent;
+	font-family: 'Bungee Hairline', cursive; bold;
+	font-size: 26px;
+	
+}
